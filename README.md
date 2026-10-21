@@ -74,4 +74,4 @@ All diagrams are original drawings made for this repository.
 
 ## License
 
-<!-- TODO: choose a license, e.g. CC BY 4.0 for the text -->
+© 2026 Anushka Jain. This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it for any purpose, as long as you give appropriate credit and link to this repository. See [LICENSE](LICENSE) for the full text.
