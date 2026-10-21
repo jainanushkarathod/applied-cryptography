@@ -68,14 +68,9 @@ Each module is self-contained, but the order below builds up gradually. Part A c
 modules/     one Markdown file per module (math renders on GitHub)
 images/      diagrams used in the modules, as SVG and PNG
 diagrams/    Python source for every diagram (python3 diagrams/draw.py regenerates them)
-medium/      Medium-ready versions of the modules (plain-text math, no tables)
 ```
 
 All diagrams are original drawings made for this repository.
-
-## Also on Medium
-
-A version of each module is published monthly on [Medium](https://jainanushka.medium.com).
 
 ## License
 
